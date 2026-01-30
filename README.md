@@ -1,4 +1,6 @@
-# Silencio Raffle Verification Repository
+Your ID verification for:
+- Beta and Raffle Season1: 09f8d6edd45446bb8ac3d105f119752b6d1eaaa0278dd5dcec5e5cd9d0dd0613 
+- Season 2 onwards: 1fd264f60abd7e1095edc9b62fa47f55581ebb699d3fc2dc5c8194734270a6b5# Silencio Raffle Verification Repository
 
 This repository contains the verification files for each Silencio Raffle Season, including the initial **Beta Airdrop**. Each subdirectory corresponds to a specific season and includes the necessary data, scripts and documentation to independently verify the raffle results.  
 
