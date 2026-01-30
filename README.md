@@ -9,6 +9,11 @@ This repository contains the verification files for each Silencio Raffle Season,
 | **Beta Airdrop** | `beta-airdrop/` |
 | **Season 1**   | `raffle-season-1/` |
 | **Season 2**   | `raffle-season-2/` |
-| **Season 3**   | Upcoming May 2025 |
+| **Season 3**   | `raffle-season-3/` |
+| **Season 4**   | `raffle-season-4/` |
+| **Season 5**   | `raffle-season-5/` |
+| **Season 6**   | `raffle-season-6/` |
+| **Season 7**   | `raffle-season-7/` |
+| **Season 8**   | Upcoming October 2025 |
 
 For detailed instructions on running verifications for a specific season, refer to the README within the respective subdirectory.
